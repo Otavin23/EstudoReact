@@ -1,0 +1,8 @@
+*{
+    background-color: rgb(241, 222, 222);
+}
+body{
+    display: flex;
+    justify-content: center;
+    
+}
